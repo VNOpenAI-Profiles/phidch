@@ -1,18 +1,18 @@
 # Site
-repository: VNOpenAI-Profiles/thanhtt
+repository: VNOpenAI-Profiles/phidch
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Thanh Tran-Tien
-title: Machine Learning Engineer
-email: trantienthanh081298@gmail.com
+name: Phi Dao-Cu-Hung
+title: AI Engineer
+email: phi9b2@gmail.com
 # phone: null
 cv   : "resume.pdf"
-website: https://web.vnopenai.org/thanhtt/
+website: https://web.vnopenai.org/phidch/
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  thanhtran98
+github_username:  phidch
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -27,12 +27,12 @@ github_username:  thanhtran98
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  A Machine Learning Engineer with a focus on Computer Vision. I'm interested in both theoretical (mathematics) and applied ML (programming frameworks and techniques).
+  An AI Engineer with a background of electronics and control theory, robot system. I enjoy learning new things everyday and pratice is my prefer.
   
-  **My research includes:**
+  **My interest includes:**
 
     + Computer vision
-    + Medical image processing
+    + Self-driving car
     + Applied machine learning
 
 # Projects Section
@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: My Hobbies
 more_content: | # this will include new lines to allow paragraphs
-  In my free time, I love reading books and hanging out. I also participart in open source projects and do some DIY works. 
+  I love playing guitar and singing, spending time with my family members and playing Age of Empire with friends every weedkend. 
 
 # Footer
 footer_show_references: true
