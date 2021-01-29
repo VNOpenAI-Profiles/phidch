@@ -12,9 +12,19 @@
   company: Viettel High Technology Industy Corporation
   link: http://viettelrd.com.vn/en
   job_title: Intern
-  dates: 07/2019-10/2020
+  dates: 07/2020-10/2020
   quote: >
     Research intern
   description: | # this will include new lines to allow paragraphs
     Research on signal processing algorithms in military radar system.
+- layout: left
+  company: Vingroup Big Data Institute
+  link: https://vinbigdata.org/en/
+  job_title: Full-time Intern
+  dates: 10/2020-01/2021
+  quote: >
+    AI engineering intern
+  description: | # this will include new lines to allow paragraphs
+    Trainning on ai engineering skill, machine learning algorithms, deeplearning models, natural language processing and computer vision.
+    
 
