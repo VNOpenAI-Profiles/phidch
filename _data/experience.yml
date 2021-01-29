@@ -1,20 +1,20 @@
 # Experience template
 - layout: left
-  company: A.N.lab
-  link: https://anlab.vn/
+  company: Panasonic R&D Center Viet Nam
+  link: https:https://www.facebook.com/prdcv.career/
   job_title: Intern
-  dates: 07/2019-09/2019
+  dates: 11/2019-02/2020
   quote: >
     Engineering intern
   description: | # this will include new lines to allow paragraphs
-    Works on control engineering and electrical engineering projects.
+    Working on automation testing for automotive system.
 - layout: left
-  company: Iwana Technology
-  link: https://www.iwannatech.com/
+  company: Viettel High Technology Industy Corporation
+  link: http://viettelrd.com.vn/en
   job_title: Intern
-  dates: 09/2019-04/2020
+  dates: 07/2019-10/2020
   quote: >
     Research intern
   description: | # this will include new lines to allow paragraphs
-    Research computer vision algorithms and intergrate them into products.
+    Research on signal processing algorithms in military radar system.
 
