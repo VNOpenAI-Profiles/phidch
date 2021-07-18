@@ -7,3 +7,13 @@
     Count pushups from video/webcam
   description: | # this will include new lines to allow paragraphs
     Tech stack: Keypoint detection, BlazePose, action recognition.
+    
+# Project template
+- layout: left
+  name: OpenControl
+  link: https://opencontrol.readthedocs.io/en/latest/
+  github: https://github.com/VNOpenAI/OpenControl
+  quote: >
+    A python library for control systems.
+  description: | # this will include new lines to allow paragraphs
+    Tech stack: Classical control, ADP control, Simulation.
